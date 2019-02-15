@@ -28,5 +28,9 @@
 
 *  Please fork the code, happy tipping! 
 
+This was designed originally for Reddcoin and is a for from Samgos/reddbot-telegram.
 
+TheVoice (7h3v01c3) is mereley changing some minor details to match the DIVI core to use with DIVI telegram.
+I am a Basher :) not a coder!
 
+Thank you Samgos for putting this out in the world!
