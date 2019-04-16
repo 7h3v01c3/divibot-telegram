@@ -1,4 +1,4 @@
-# Divibot - Telegram Divi Tipbot.
+# Divibot - Telegram Divi Tipbot. Do Not Use In the Middle of UPDATE 
  
 #### Divi crypto currency tipbot for [Telegram](https://t.me/diviproject)
 
