@@ -1,4 +1,4 @@
-# Divibot - Telegram Divi Tipbot. Do Not Use In the Middle of UPDATE 
+# Divibot - Telegram Divi Tipbot. Do Not Use In the Middle of UPDATE fork not updated yet 
  
 #### Divi crypto currency tipbot for [Telegram](https://t.me/diviproject)
 
@@ -6,8 +6,7 @@
 ## Dependencies 
 
 *  `apt-get install python3`
-*  `apt-get install python3-pip`
-*  `pip3 install beautifulsoup4`
+*  `apt-get install python3-pip
 *  `pip3 install python-telegram-bot --upgrade`
 
 * In order to run the tip-bot effectively, a Bitcoin-core based client is needed. For this git Divi-Core is used , but any major alternate crypto-currency client could easily be incorporated. 
