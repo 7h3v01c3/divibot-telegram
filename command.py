@@ -7,6 +7,7 @@ import requests
 import json
 import time
 import math
+import matplotlib
 
 updater = Updater(token='BOT_TOKEN')#Insert Your Telegram Bot Token Here
 dispatcher = updater.dispatcher
